@@ -1,0 +1,141 @@
+.work__filters {
+    display: flex;
+    align-items: center;
+    column-gap: 1.875rem;
+    margin-bottom: 2.5rem;
+}
+
+.work__item {
+    cursor: pointer;
+    font-weight: var(--font-bold);
+    transition: color .3s ease;
+}
+
+.work__item:hover {
+    color: var(--first-color);
+}
+
+.work__container {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.875rem;
+}
+
+.work__card {
+    position: relative;
+    overflow: hidden;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+
+}
+
+.work__desc {
+    font-size: var(--small-font-size);
+    padding: 1rem;
+    text-align: justify;
+}
+
+.work__thumbnail {
+    height: 236px;
+    width: 340px;
+}
+
+.work__image {
+    height: 100%;
+    width: 100%;
+}
+
+.work__mask {
+    background: #6c6ce5;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    transition: .3s ease;
+    opacity: 0;
+}
+
+.work__category {
+    color: #fff;
+    background: var(--first-color);
+    border-bottom-left-radius: 0.98rem;
+    border-bottom-right-radius: 0.98rem;
+    position: absolute;
+    top: 0;
+    left: 1.05rem;
+    font-size: var(--small-font-size);
+    display: inline-block;
+    padding: 0.19rem 0.625rem;
+    transform: translateY(-40px);
+    transition: 0.3s ease;
+}
+
+.work__title {
+    color: #fff;
+    font-size: var(--h3-font-size);
+    margin: 0 0 0.98rem;
+    padding: 0 1.25rem;
+    position: absolute;
+    top: 3.75rem;
+    transform: translateX(30px);
+    transition: .3s ease;
+    opacity: 0;
+}
+
+.work__buttons {
+    position: absolute;
+    bottom: 1.5rem;
+    left: 0;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    transition: .3s ease;
+    opacity: 0;
+}
+
+.work__button {
+    color: #fff;
+    font-size: var(--h3-font-size);
+    display: block;
+    background: var(--title-color);
+    height: 40px;
+    padding: 0 1rem;
+    cursor: pointer;
+    border-radius: var(--border-radius);
+    text-align: center;
+    line-height: 42px;
+    transition: .3s ease;
+}
+
+.work__card:hover .work__buttons {
+    opacity: 1;
+}
+
+.work__card:hover .work__title, .work__card:hover .work__category {
+    opacity: 1;
+    transform: translateY(0)
+}
+
+.work__card:hover .work__mask {
+    opacity: 0.9;
+}
+
+@media all and (max-width: 1024px){
+    .work__container {
+        grid-template-columns: 340px;
+        justify-content: center;
+        row-gap: 1.875rem;
+    }
+
+    .work__filters {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@media all and (max-width: 768px){
+
+    .work__filters {
+        column-gap: 1rem;
+    }
+}
