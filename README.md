@@ -2,7 +2,7 @@
 
 ![Imagem do resultado do projeto](public/resultado.png)
 <br>
-> 💖 <a href="https://monalizaps.github.io/cher-wardrobe">Acesse aqui</a> &nbsp; | &nbsp; 
+> 💖 <a href="https://melodious-lollipop-21eef3.netlify.app/">Acesse aqui</a> &nbsp; | &nbsp; 
 
 
 ## 💻 About
