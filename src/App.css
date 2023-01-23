@@ -1,0 +1,22 @@
+.main {
+    margin-left: 110px;
+}
+
+@media all and (max-width: 1024px){
+    .main {
+        margin-left: 0;
+    }
+}
+
+.select-language__container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url("assets/backhome1.jpg");
+}

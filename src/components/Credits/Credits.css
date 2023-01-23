@@ -1,0 +1,18 @@
+.credits {
+    text-align: center;
+}
+
+.credits__title {
+    font-size: var(--small-font-size);
+    margin-bottom: 0.5rem;
+}
+
+.credits__item {
+    font-size: var(--smaller-font-size);
+    margin-bottom: 0.2rem;
+}
+
+.credits__item a {
+    font-weight: var(--font-bold);
+    color: var(--first-color);
+}
