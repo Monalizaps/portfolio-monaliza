@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-monaliza/static/css/main.a6d730ef.css",
+    "main.js": "/portfolio-monaliza/static/js/main.b351f616.js",
+    "static/media/backhome1.jpg": "/portfolio-monaliza/static/media/backhome1.b0e035677ca68bb38b7d.jpg",
+    "static/media/avatar-1.png": "/portfolio-monaliza/static/media/avatar-1.e4b3393ae73f884f1626.png",
+    "static/media/avatar-2.png": "/portfolio-monaliza/static/media/avatar-2.1149f6873138764f6dbc.png",
+    "static/media/doctorcare.png": "/portfolio-monaliza/static/media/doctorcare.eebcadb0c2966adc2f38.png",
+    "static/media/cher.png": "/portfolio-monaliza/static/media/cher.3e85ee0b2b4ede3e03db.png",
+    "static/media/monaeed.png": "/portfolio-monaliza/static/media/monaeed.963992138fa35997d1ed.png",
+    "static/media/ApiNode.png": "/portfolio-monaliza/static/media/ApiNode.cba11f2e9a21a9a7b51c.png",
+    "static/media/crudnode.png": "/portfolio-monaliza/static/media/crudnode.f3cccb98806d15cf7524.png",
+    "static/media/mariana.png": "/portfolio-monaliza/static/media/mariana.22aecbbc74b26a4e937e.png",
+    "static/media/coffeeshop.png": "/portfolio-monaliza/static/media/coffeeshop.757cdb86a08b705c9c93.png",
+    "static/media/gabriela.png": "/portfolio-monaliza/static/media/gabriela.944ccba7d8680e8c313c.png",
+    "static/media/clock.png": "/portfolio-monaliza/static/media/clock.1be40e137c2e2975ead8.png",
+    "static/media/pixelShop.png": "/portfolio-monaliza/static/media/pixelShop.a239e350801ba7eae5df.png",
+    "static/media/login.png": "/portfolio-monaliza/static/media/login.2101a3eadcfb68a120ea.png",
+    "static/media/banner-formas.png": "/portfolio-monaliza/static/media/banner-formas.26d977f7501f3073cb0c.png",
+    "index.html": "/portfolio-monaliza/index.html",
+    "main.a6d730ef.css.map": "/portfolio-monaliza/static/css/main.a6d730ef.css.map",
+    "main.b351f616.js.map": "/portfolio-monaliza/static/js/main.b351f616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d730ef.css",
+    "static/js/main.b351f616.js"
+  ]
+}
