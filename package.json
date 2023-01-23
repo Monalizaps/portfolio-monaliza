@@ -1,7 +1,7 @@
 {
   "name": "portfolio-monaliza",
   "version": "0.1.0",
-  "homepage": "https://monalizaps.github.io/portfolio-mona",
+  "homepage": "https://monalizaps.github.io/portfolio-monaliza",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",

@@ -7,6 +7,8 @@ import GabrielaImg from '../../assets/gabriela.png';
 import LoginImg from '../../assets/login.png';
 import ClockImg from '../../assets/clock.png';
 import CherImg from '../../assets/cher.png';
+import CrudNode from '../../assets/crudnode.png';
+import APINode from '../../assets/ApiNode.png';
 
 const ProjectsEng = [
     {
@@ -91,6 +93,24 @@ const ProjectsEng = [
         code: "https://github.com/Monalizaps/cher-wardrobe",
         category: "Front-End"
     },
+    {
+        id: 10,
+        img: CrudNode,
+        title: "CRUD NodeJS",
+        desc: "Simple CRUD made with Node JS Movie List Example. I used Insomnia to run the app",
+        demo: "https://github.com/Monalizaps/Crud_movies/blob/main/resultado.png",
+        code: "https://github.com/Monalizaps/Crud_movies",
+        category: "Back-End"
+    },
+    {
+        id: 11,
+        img: APINode,
+        title: "API NodeJS",
+        desc: "I created an API using NodeJS. Simulating a local database and creating the main requests that an API should contain.",
+        demo: "https://github.com/Monalizaps/API-Node/blob/master/resultado.png",
+        code: "https://github.com/Monalizaps/API-Node",
+        category: "Back-End"
+    }
 ]
 
 export default ProjectsEng;
