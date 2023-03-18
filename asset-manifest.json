@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-monaliza/static/css/main.a6d730ef.css",
-    "main.js": "/portfolio-monaliza/static/js/main.9df6adf7.js",
+    "main.js": "/portfolio-monaliza/static/js/main.912818cf.js",
     "static/media/backhome1.jpg": "/portfolio-monaliza/static/media/backhome1.b0e035677ca68bb38b7d.jpg",
     "static/media/avatar-1.png": "/portfolio-monaliza/static/media/avatar-1.e4b3393ae73f884f1626.png",
     "static/media/avatar-2.png": "/portfolio-monaliza/static/media/avatar-2.1149f6873138764f6dbc.png",
@@ -19,10 +19,10 @@
     "static/media/banner-formas.png": "/portfolio-monaliza/static/media/banner-formas.26d977f7501f3073cb0c.png",
     "index.html": "/portfolio-monaliza/index.html",
     "main.a6d730ef.css.map": "/portfolio-monaliza/static/css/main.a6d730ef.css.map",
-    "main.9df6adf7.js.map": "/portfolio-monaliza/static/js/main.9df6adf7.js.map"
+    "main.912818cf.js.map": "/portfolio-monaliza/static/js/main.912818cf.js.map"
   },
   "entrypoints": [
     "static/css/main.a6d730ef.css",
-    "static/js/main.9df6adf7.js"
+    "static/js/main.912818cf.js"
   ]
 }
