@@ -23,7 +23,7 @@ const About = () => {
 
             {(language === "Port") && (
               <>
-              Me chamo Monaliza Pereira, sou uma Desenvolvedora FullStack e estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi - RJ.
+              Me chamo Monaliza Pereira, sou uma Desenvolvedora FullStack e estudante de Análise e Desenvolvimento de Sistemas na Faculdade São Francisco de Assis.
               Sou apaixonada por Front-End e amo desenvolver. Tenho habilidade com CSS3, JavaScript e React. Também tenho familiaridade com Back-End no NodeJs e Linguagem Java. 
               <br></br><br></br>Estudo diariamente.
               Criativa e ativa em tudo que faço.
@@ -31,7 +31,7 @@ const About = () => {
             )}
             {(language === "Eng") && (
               <>
-              My name is Monaliza Pereira, I'm a FullStack Developer and a student of Systems Analysis and Development at Uniasselvi - RJ.
+              My name is Monaliza Pereira, I'm a FullStack Developer and a student of Systems Analysis and Development at São Francisco de Assis University.
               I'm passionate about Front-End and I love to develop. I have skills with CSS3, JavaScript and React. I am also familiar with Back-End in NodeJs and Java Language. 
               <br></br><br></br>I study daily.
               Creative and active in everything I do.
