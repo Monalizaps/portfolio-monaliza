@@ -44,7 +44,7 @@ const Sidebar = () => {
 
         <div className="nav__footer">
           <span className="copyright">
-            &copy; Monaliza Pereira, 2022
+            &copy; Monaliza Pereira, 2023
           </span>
         </div>
       </aside>
