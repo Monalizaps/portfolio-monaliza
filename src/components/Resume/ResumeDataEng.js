@@ -9,12 +9,21 @@ export const ResumeDataEng = [
     
     },
     {
+        id: 1,
+        category: "education",
+        icon: "icon-graduation",
+        year: "Jan - Jun 2022",
+        title: "Front-End Development Bootcamp",
+        desc: "Front-End Development Certified by Recode Pro."
+    
+    },
+    {
         id: 2,
         category: "education",
         icon: "icon-graduation",
         year: "2022 - 2024",
         title: "Systems Development",
-        desc: "Graduation in Systems Analysis and Development from Uniasselvi - RJ in progress."
+        desc: "Graduation in Systems Analysis and Development from São Francisco University in progress."
     },
     {
         id: 3,

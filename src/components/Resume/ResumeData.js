@@ -9,12 +9,21 @@ export const ResumeData = [
     
     },
     {
+        id: 1,
+        category: "education",
+        icon: "icon-graduation",
+        year: "Jan - Jun 2022",
+        title: "Bootcamp de Desenvolvimento Front-End",
+        desc: "Certificado de Desenvolvimento Front-End pela Oracle Next Education - Alura."
+    
+    },
+    {
         id: 2,
         category: "education",
         icon: "icon-graduation",
         year: "2022 - 2024",
         title: "Desenvolvimento de Sistemas",
-        desc: "Graduação em Análise e Desenvolvimento de Sistemas pela Uniasselvi - RJ em andamento."
+        desc: "Graduação em Análise e Desenvolvimento de Sistemas pela Faculdade São Francisco de Assis em andamento."
     },
     {
         id: 3,
